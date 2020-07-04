@@ -2,7 +2,8 @@
 Algorithm challenge
 
 
-Choosing the right algorithm
+[Importance of choosing right algorithm]
+
 The data structures and algorithms you use critically affect two factors in your applications:
 
 1. Memory usage (for data structures).
